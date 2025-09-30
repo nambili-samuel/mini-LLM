@@ -1,0 +1,8 @@
+mini-LLM/
+├── mini_gpt_train.py    # Main training script
+├── requirements.txt     # Python dependencies
+├── config.py           # Model configuration
+├── train.py           # Training utilities
+├── generate.py        # Text generation utilities
+└── examples/
+    └── example_usage.py # Usage examples

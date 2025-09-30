@@ -1,15 +1,5 @@
 # Mini-LLM: A Minimal GPT Implementation
 
-mini-LLM/
-├── README.md
-├── requirements.txt
-├── mini_gpt_train.py
-├── config.py
-├── train.py
-├── generate.py
-└── examples/
-    └── example_usage.py
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 

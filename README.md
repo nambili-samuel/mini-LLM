@@ -1,4 +1,4 @@
-# Mini-LLM: A Minimal GPT Implementation
+# Building a Mini-LLM: A Minimal GPT
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
@@ -8,7 +8,7 @@ A minimal implementation of GPT-style language model training on a single GPU. T
 **Author**: Dr. Nambili Samuel  
 **Repository**: https://github.com/nambili-samuel/mini-LLM.git
 
-## 🚀 Features
+## Features
 
 - Complete training pipeline for mini GPT model
 - Single GPU training with mixed precision
@@ -17,7 +17,7 @@ A minimal implementation of GPT-style language model training on a single GPU. T
 - Text generation capabilities
 - Hugging Face compatible model saving
 
-## 📋 Step-by-Step Roadmap
+## Step-by-Step Roadmap
 
 1. **Environment Setup** - Install dependencies and setup Python environment
 2. **Dataset Preparation** - Download and preprocess Wikitext dataset
@@ -27,7 +27,7 @@ A minimal implementation of GPT-style language model training on a single GPU. T
 6. **Model Saving** - Save trained model and tokenizer
 7. **Text Generation** - Generate text from trained model
 
-## 🏗️ Model Architecture (Mini GPT)
+## Model Architecture (Mini GPT)
 
 The mini GPT model is based on GPT-2 architecture with reduced parameters:
 
